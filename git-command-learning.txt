@@ -1,0 +1,10 @@
+Day 1
+1. git config - modifies git settings like user.name and user.email
+2. git init - creates .git folder inside your directory and makes it Git repository
+3. git status - shows the status of git, can see status like if there is unstaged fle
+4. git add - used to stage the changed file
+5. git commit - used to commit the staged file, commonly used with -m flag to message like this '-m 1st commit'
+6. git log - shows commit history
+7. git diff - shows difference of unstaged file and unstaged file
+8. git diff --staged - shows difference of staged file and commited file
+9. git diff HEAD - shows difference between current working directory and staging are to commit 
